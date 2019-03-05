@@ -1,4 +1,7 @@
 # VB.NET-ADO.NET-example
-embedded SQL to link to MS Access and embedded HTML for report output. Typical A-Level project complexity, but strong use of coding conventions and techniques.
+embedded SQL to link to MS Access and embedded HTML for report output. Typical A-Level project complexity, but strong use of coding conventions and techniques, producing readable and maintainable algorithms.
 
-compiled for x64
+Built in Visual Studio Express 2012
+Should compile for any CPU, but differing versions of MS Access can require a specific x86 or x64 compile, and subsequent moving of database and other files from debug folder to x86/debug or x64/debug folders.
+
+Any questions, email danpick77@gmail.com :-)
