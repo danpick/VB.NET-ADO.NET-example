@@ -6,6 +6,6 @@ Built in Visual Studio Express 2012
 
 Should compile for any CPU, but differing versions of MS Access can require a specific x86 or x64 compile, and subsequent moving of database and other files from debug folder to x86/debug or x64/debug folders.
 
-Look in tblUsers table in database (debug folder0 for logins when running the software, and note that prototype has only data for 'Yorkshire Dales' area.
+Look in the tblUsers table in database (debug folder0 for logins when running the software, and note that prototype has only data for 'Yorkshire Dales' area.
 
 Any questions, email danpick77@gmail.com :-)
